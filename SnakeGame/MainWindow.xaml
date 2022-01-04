@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:SnakeGame"
         mc:Ignorable="d"
         Title="Snake!" Height="500" Width="800" ResizeMode="NoResize">
-    <Grid Background="Black">
+    <Grid Background="White">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto" />
             <ColumnDefinition />
